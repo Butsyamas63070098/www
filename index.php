@@ -14,7 +14,6 @@
         <img src ="cat2.jpg">
         <br>
         <a href="https://twitter.com/">This is a Link</a>
-        <h2>The unordered list</h2>
         
     </body>
 </html>
